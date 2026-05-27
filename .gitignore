@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+results/
+*.bin
+*.safetensors
+.env
+*.pickle
+.DS_Store
+wandb/
+.ipynb_checkpoints/
